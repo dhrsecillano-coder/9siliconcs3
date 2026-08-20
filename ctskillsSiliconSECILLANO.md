@@ -1,12 +1,16 @@
-Annex A
-Computational Thinking Exercise: "Smart School Canteen Queue"
+# Computational Thinking Exercise
 
-Section: 9 - Silicon Score:____________
+## [Smart School Canteen Queue]
 
-C# / Name: Don Hill R. Secillano Date: 08/20/2026
+**Name:** Don Hill R. Secillano
 
+**Section:** Silicon
 
-Scenario
+**Last Name:** Secillano
+
+**Date:** August 20, 2026
+
+## Scenario
 
 The PSHS school canteen is small and often gets crowded during lunch break. Students line up to buy food, but the process is slow because:
 
@@ -15,11 +19,12 @@ The cashier has to manually calculate totals and give change.
 There is no system to track which food items are running out.
 Your group’s task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
-Step 1: Identify the Big Problem
+### Step 1: Identify the Big Problem
 
 Main Problem: The canteen will take too long to serve the students they ordered.
 
-Step 2: Identify three to four Sub-Problems
+### Step 2: Identify three to four Sub-Problems
+
 Please list possible sub-problems:
 
 1. Some students take too long to decide what to order.
@@ -28,25 +33,20 @@ Please list possible sub-problems:
 
 3. There is no system to track which food items are running out.
 
-Step 3: Define Computational Thinking Approaches
+### Step 3: Define Computational Thinking Approaches
+
 For each sub-problem, apply CT skills:
 
-Sub-Problem
-1. Time usage because of students deciding what to order
-2. The cashier has to manually calculate totals and give change.
-3. There is no system to track which food items are running out.
+| Sub-Problem | CT Skill | Proposed Solution |
 
-CT Skill
-1. Pattern Recognition
-2. Decomposition
-3. Alorithm Design
+|---|---|---|
 
-Example Solution
-1. By using what the students usually choose, the canteen can prefer foods or items that are popular.
-2. First select the food, then calculate the total and finally give the change.
-3. Create a process by which they will record the stocks, check the remaining items and alert the canteen staffs on what to do.
+| Time usage because of students deciding what to order | Pattern Recognition | Use what the students usually choose, the canteen can prefer foods or items that are popular. |
+| The cashier has to manually calculate totals and give change. | Decomposition | First select the food, then calculate the total and finally give the change. |
+| There is no system to track which food items are running out. | Alorithm Design | Create a process by which they will record the stocks, check the remaining items and alert the canteen staffs on what to do. |
 
- Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
+
+### Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 
 START
     
