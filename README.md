@@ -4,7 +4,7 @@
 
 **Name:** Don Hill R. Secillano
 
-**Section:** Secillano
+**Section:** Silicon
 
 **School Year:** 2026-2027
 
