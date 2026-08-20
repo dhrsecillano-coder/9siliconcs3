@@ -37,13 +37,22 @@ Please list possible sub-problems:
 
 For each sub-problem, apply CT skills:
 
-| Sub-Problem | CT Skill | Proposed Solution |
+1. Time usage because of students deciding what to order
+2. The cashier has to manually calculate totals and give change.
+3. There is no system to track which food items are running out.
 
-|---|---|---|
 
-| Time usage because of students deciding what to order | Pattern Recognition | Use what the students usually choose, the canteen can prefer foods or items that are popular. |
-| The cashier has to manually calculate totals and give change. | Decomposition | First select the food, then calculate the total and finally give the change. |
-| There is no system to track which food items are running out. | Alorithm Design | Create a process by which they will record the stocks, check the remaining items and alert the canteen staffs on what to do. |
+CT Skill
+1. Pattern Recognition
+2. Decomposition
+3. Alorithm Design
+
+
+Example Solution
+1. Use what the students usually choose, the canteen can prefer foods or items that are popular.
+2. First select the food, then calculate the total and finally give the change.
+3. Create a process by which they will record the stocks, check the remaining items and alert the canteen staffs on what to do.
+
 
 
 ### Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
