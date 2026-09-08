@@ -29,7 +29,7 @@ Link to my previous activity:
 
 ## Updated UML Class Diagram
 
-![Class Diagram](images/classDiagramSG5.png)
+![Class Diagram](Images/classDiagramSG5.png)
 
 ## Python Implementation
 
@@ -37,11 +37,11 @@ Link to my previous activity:
 
 ## Test Run
 
-![Test Run](images/classTestRun.png)
+![Test Run](Images/classTestRun.png)
 
 ## Object Diagram
 
-![Object Diagram](images/objectDiagram.png)
+![Object Diagram](Images/objectDiagram.png)
 
 ## Analysis
 
