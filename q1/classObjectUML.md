@@ -25,7 +25,7 @@
 
 ## Class Diagram
 
-![Class Diagram](images/Basketball.png)
+![Class Diagram](images/classDiagram.png)
 
 ## Design Explanation
 
