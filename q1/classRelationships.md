@@ -32,7 +32,7 @@ Explanation: Basketball has many brands and isnt the only one that has brands.
 
 ## UML Class Relationship Diagram
 
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](Images/classRelationshipDiagram.png)
 
 ## Python Implementation
 
@@ -40,11 +40,11 @@ Explanation: Basketball has many brands and isnt the only one that has brands.
 
 ## Test Run
 
-![Relationship Test Run](images/relationshipTestRun.png)
+![Relationship Test Run](Images/relationshipTestRun.png)
 
 ## Object Relationship Diagram
 
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](Images/objectRelationshipDiagram.png)
 
 ## Analysis
 
