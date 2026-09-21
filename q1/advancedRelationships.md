@@ -10,11 +10,11 @@
 
 ## Inheritance Relationship
 
-Parent:
+Parent: Sport
 
-Child:
+Child: Basketball
 
-Explanation:
+Explanation: Basketball is one type of a sport. The parent sports stores general attributes while the basketball only displays specific attributes.
 
 ## Inheritance UML
 
