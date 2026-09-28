@@ -22,9 +22,9 @@ Explanation: Basketball is one type of a sport. The parent sports stores general
 
 ## Composition/Aggregation
 
-Relationship:
+Relationship: Composition
 
-Explanation:
+Explanation: Without sports, basketball will not exist.
 
 ## Advanced UML Diagram
 
