@@ -20,3 +20,5 @@
 [View my OOPAct Part 1](./q1/classObjectUML.md)
 
 [View my OOPAct Part 2](./q1/classAttributesMethods.md)
+
+[View my OOPAct Part 3](./q1/classRelationships.md)
