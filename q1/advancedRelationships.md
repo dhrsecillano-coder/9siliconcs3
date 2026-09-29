@@ -18,7 +18,7 @@ Explanation: Basketball is one type of a sport. The parent sports stores general
 
 ## Inheritance UML
 
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](Images/inheritanceDiagram.png)
 
 ## Composition/Aggregation
 
@@ -28,7 +28,7 @@ Explanation: The game can still exist outside in basketball system. If basketbal
 
 ## Advanced UML Diagram
 
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](Images/advancedClassDiagram.png)
 
 ## Python Implementation
 
@@ -36,11 +36,11 @@ Explanation: The game can still exist outside in basketball system. If basketbal
 
 ## Test Run
 
-![Test](images/advancedTestRun.png)
+![Test](Images/advancedTestRun.png)
 
 ## Object Diagram
 
-![Objects](images/advancedObjectDiagram.png)
+![Objects](Images/advancedObjectDiagram.png)
 
 ## Reflection
 
