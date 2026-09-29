@@ -22,3 +22,5 @@
 [View my OOPAct Part 2](./q1/classAttributesMethods.md)
 
 [View my OOPAct Part 3](./q1/classRelationships.md)
+
+[View my OOPAct Part 4](./q1/advancedRelationships.md)
