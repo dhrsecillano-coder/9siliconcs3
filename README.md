@@ -26,3 +26,5 @@
 [View my OOPAct Part 4](./q1/advancedRelationships.md)
 
 [View my Study Guide 8 – Encapsulation Work](./q2/sg8_encapsulation.py)
+
+[View my Study Guide 9 – Inheritance Work](./q2/sg9_inheritance.py)
