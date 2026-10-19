@@ -24,3 +24,5 @@
 [View my OOPAct Part 3](./q1/classRelationships.md)
 
 [View my OOPAct Part 4](./q1/advancedRelationships.md)
+
+[View my Study Guide 8 – Encapsulation Work](./q2/sg8_encapsulation.py)
